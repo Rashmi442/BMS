@@ -1,0 +1,17 @@
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+
+.settings/
+.metadata/
+
+Thumbs.db
+.DS_Store
